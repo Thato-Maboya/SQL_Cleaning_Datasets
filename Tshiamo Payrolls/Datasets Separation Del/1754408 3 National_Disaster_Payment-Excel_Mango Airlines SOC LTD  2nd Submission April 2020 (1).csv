@@ -1,0 +1,93 @@
+UifReferenceNumber *,Shutdown From (DD-MMM-YYYY)ONLY*,Shutdown Till(DD-MMM-YYYY)ONLY*,TradeName*,PAYE Number,Contact Number*,Email Address *,IDNumber*,FirstName *,LastName (Surname) *,Remuneration(Monthly)*,Employment Start Date(DD-MMM-YYYY)ONLY*,Employment End Date(DD-MMM-YYYY)ONLY,Sector Minimum wage per month *,Remuneration Received During Shutdown Period*,Bank Name*,Branch Code*,"Account Type *
+1 = Current 
+2= Savings
+3= Transmission",Account Number *,"Preferred Payment Medium *
+1 = Pay To Employee
+2= Pay To Employer
+3= Pay To Bargaining Council"
+1754408/3,27-Mar-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,5708050069080,Lynn,Roets,36582.5661,01-Aug-2007,,,0,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0007170109081,Fagan,Rhode,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0006140981082,Nosihle,Malongwana,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,8701051283088,Zamokuhle,Duze,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0009190137084,Amelia,Slabbert,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,7711095114083,Etienne,Venter,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0009305254089,Tumisang,Mokoena,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,8903295703083,Mpho,Mathele,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0102160233080,Leah,Singh,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9204280698084,Noluthando,Mashinini,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9401011421089,Malira,Cuco,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9903105273086,Yashil,Bhanjee,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9302150521087,Nokuphiwe,Hlongwane,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9601100253083,Morgan,Ive,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,9701080119088,Natasha,Wakeford,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,7101090376087,Pearl,Sechabela,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0008135026089,Ethan,Flusk,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,6903140557082,Ntombifuthi Priscila,Monametsi,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,0003255510087,John,Manyaka,18098.37,01-Apr-2020,,,5600,Nedbank,118602,1,1002801664,2
+1754408/3,01-Apr-2020,30-Apr-2020,Mango Airlines SOC Ltd,7670762030,0835197079,payroll@flymango.com,6908280266089,Jacomina,Liebenberg,85869.42,01-Apr-2020,,,23775.57,Nedbank,118602,1,1002801664,2
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,, ,,,,,,,,,,,,,,,,
